@@ -1,0 +1,1 @@
+The Asset Tracker is a lightweight Next.js and Flask web app for managing company equipment."company equipment" (usually referred to as IT Assets) covers anything the company purchases and assigns to an employee to do their job.
